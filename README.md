@@ -6,12 +6,13 @@
 &nbsp;
 <a href="https://www.instagram.com/ritzykings_007/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ritik-nipane" height="30" width="40" /></a>
 &nbsp;
-
+<a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" alt="GitHub" height="30" width="40" /></a>
+&nbsp;
+<a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://img.icons8.com/?size=80&id=9eK5RgdglDbA&format=png" alt="GitHub" height="30" width="40" /></a>
 &nbsp;
 
 
-
-## Glad to see you here! &nbsp; ![visitors]()
+## Glad to see you here! &nbsp; ![visitors]
 
 i am into data science & analytics, software development, python/java developer field. I love programming, reading, writing and speaking.
 
@@ -32,15 +33,13 @@ That's why I like to code in my free time.
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?logo=microsoft-office&logoColor=white"></a> ecosystem
 - 👯 Follow me [follow](https://github.com/RitzyKingS) if you're a tech enthusiast
 - 📬 How to reach me: [ritiknipane456@gmail.com](mailto:ritiknipane456@gmail.com)
-- 📝 [Resume]().
+- 📝 [Resume](https://ritzykings.github.io/Portfolio/elements.html).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RitikNipane" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RitikNipane" height="30" width="40" /></a>
-&nbsp;
-
 &nbsp;
 <a href="https://www.hackerrank.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RitikNipane" height="30" width="40" /></a>
 
@@ -115,18 +114,19 @@ That's why I like to code in my free time.
 
 ## 📊 Stats
 
-[![wakatime]() <b>&nbsp; coded, since JAN 22 2022</b>
+[![wakatime] <b>&nbsp; coded, since JAN 22 2022</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
 <!--START_SECTION:waka-->
 ```text
-Python|Java     3 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.46 % 
-MySQL         2 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   34.41 % 
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Html|CSS          45 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   5.97 % 
-PowerBI|Excel         40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   5.31 % 
-C Programming|C++         40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   5.31 % 
+Python|Java        3 hrs 3 mins     ███████████▒░░░░░░░░░░░░░    45.46 % 
+MySQL              2 hrs 35 mins    ██████████░░░░░░░░░░░░░░░    34.41 % 
+JavaScript         1 hr 34 mins     ███▒░░░░░░░░░░░░░░░░░░░░░    20.86 % 
+Html|CSS           45 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░    5.97 % 
+PowerBI|Excel      40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░    5.31 % 
+C Programming|C++   40 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░    5.31 % 
+
 ```
 <!--END_SECTION:waka-->
 
