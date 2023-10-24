@@ -6,9 +6,9 @@
 &nbsp;
 <a href="https://www.instagram.com/ritzykings_007/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ritik-nipane" height="30" width="40" /></a>
 &nbsp;
-<a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" alt="GitHub" height="30" width="30" /></a>
 &nbsp;
-<a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://img.icons8.com/?size=80&id=9eK5RgdglDbA&format=png" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://img.icons8.com/?size=80&id=9eK5RgdglDbA&format=png" alt="GitHub" height="30" width="30" /></a>
 &nbsp;
 
 
@@ -42,7 +42,10 @@ That's why I like to code in my free time.
 <a href="https://leetcode.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RitikNipane" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.hackerrank.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="RitikNipane" height="30" width="40" /></a>
-
+<a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://img.icons8.com/?size=50&id=12599&format=png" alt="GitHub" height="30" width="30" /></a>
+&nbsp;
+<a href="https://github.com/RitzyKingS" target="_blank"><img align="center" src="https://img.icons8.com/?size=80&id=9eK5RgdglDbA&format=png" alt="GitHub" height="30" width="30" /></a>
+&nbsp;
 
 ---
 
